@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CanCounterApplication {
     public static void main(String[] args) {
         SpringApplication.run(CanCounterApplication.class, args);
-
+        System.out.println();
     }
 
 }
