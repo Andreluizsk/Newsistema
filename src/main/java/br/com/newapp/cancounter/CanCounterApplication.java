@@ -9,4 +9,5 @@ public class CanCounterApplication {
         SpringApplication.run(CanCounterApplication.class, args);
 
     }
+
 }
